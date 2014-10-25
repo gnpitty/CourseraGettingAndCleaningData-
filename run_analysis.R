@@ -1,5 +1,5 @@
  
-setwd("E:/apps/NEW PROYECTOS/Coursera/GET DATA/Dataset")
+setwd("./Dataset")
 #Read data files
 trainDat  <- read.table("train/X_train.txt") 
 trainLab  <- read.table("train/Y_train.txt") 
